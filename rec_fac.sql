@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+-- phpMyAdmin SQL Dump realizado por xxxxxxxxxxxxxxxxxx
 -- version 4.9.2
 -- https://www.phpmyadmin.net/
 --
